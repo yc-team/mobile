@@ -8,5 +8,6 @@ mobile
 * [touch事件相关](http://stylechen.com/)
 * [虚拟键盘与fixed带给前端的痛](http://www.cnblogs.com/yexiaochai/p/3561939.html)
 * [youyo博客](http://blog.youyo.name/archives/category/mobile)
+* [chrome调试](https://developer.chrome.com/devtools/docs/remote-debugging#setting-up-device)
 
 
