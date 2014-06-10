@@ -9,5 +9,6 @@ mobile
 * [虚拟键盘与fixed带给前端的痛](http://www.cnblogs.com/yexiaochai/p/3561939.html)
 * [youyo博客](http://blog.youyo.name/archives/category/mobile)
 * [chrome调试](https://developer.chrome.com/devtools/docs/remote-debugging#setting-up-device)
+* [Browser-Sync](http://www.alloyteam.com/2014/02/browser-sync-responsive-web-development-and-debugging-tool/)
 
 
