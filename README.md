@@ -12,5 +12,6 @@ mobile
 * [mac需要装adb](http://developer.android.com/sdk/index.html)
 * [Browser-Sync](http://www.alloyteam.com/2014/02/browser-sync-responsive-web-development-and-debugging-tool/)
 * [淘宝旅行客户端Hybrid桥协议](https://github.com/PaulGuo/bridge)
+* [ipresst上的浅谈移动web开发](http://www.ipresst.com/play/5230f0d3d3fb85cf7000b3a9#step=1)
 
 
